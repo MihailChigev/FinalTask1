@@ -1,0 +1,15 @@
+/home/artem/Рабочий стол/Task/Text/Task/bin/Debug/net6.0/Task
+/home/artem/Рабочий стол/Task/Text/Task/bin/Debug/net6.0/Task.deps.json
+/home/artem/Рабочий стол/Task/Text/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/home/artem/Рабочий стол/Task/Text/Task/bin/Debug/net6.0/Task.dll
+/home/artem/Рабочий стол/Task/Text/Task/bin/Debug/net6.0/Task.pdb
+/home/artem/Рабочий стол/Task/Text/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/home/artem/Рабочий стол/Task/Text/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/home/artem/Рабочий стол/Task/Text/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/home/artem/Рабочий стол/Task/Text/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/home/artem/Рабочий стол/Task/Text/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/home/artem/Рабочий стол/Task/Text/Task/obj/Debug/net6.0/Task.dll
+/home/artem/Рабочий стол/Task/Text/Task/obj/Debug/net6.0/refint/Task.dll
+/home/artem/Рабочий стол/Task/Text/Task/obj/Debug/net6.0/Task.pdb
+/home/artem/Рабочий стол/Task/Text/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/home/artem/Рабочий стол/Task/Text/Task/obj/Debug/net6.0/ref/Task.dll
